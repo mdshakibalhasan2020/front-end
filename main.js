@@ -30,7 +30,7 @@ function sendMessage() {
             window.dotsGoingUp = false;
     }, 250);
 
-    fetch('https://tame-plum-walkingstick-belt.cyclic.app/message', {
+    fetch('https://chatbot-u76v.onrender.com/message', {
         method: 'POST',
         headers: {
             accept: 'application.json',
